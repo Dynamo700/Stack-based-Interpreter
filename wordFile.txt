@@ -1,0 +1,7 @@
+5 2 swap - + out
+' Hello ' dup - swap + out
+5 5 3 pop + out
+5 ' Number is: ' swap + out
+5 ' is the number ' + out
+353 ' 5 ' * out
+2 3 4 * + out
